@@ -1,7 +1,7 @@
 import java.sql.*;
 import java.util.ArrayList;
 
-public class Logger {
+public class Logger  implements users_management{
 
     private class ConnectedUser {
 
